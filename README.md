@@ -27,6 +27,10 @@ The challenge is, manually reviewing CVs is time-consuming and might miss out on
 Based on the input data, develop an algorithm that, provided with a PDF CV and a target trial, determines whether the trial is included in the CV.
 
 
+## Technologies
+
+You can use any library or technology. We will supply you with an OpenAI API key, allowing you to utilize powerful, off-the-shelf LLMs as needed.
+
 ## Input data details
 
 **Principal investigators's resumes**
