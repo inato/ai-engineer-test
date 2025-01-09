@@ -3,8 +3,8 @@
 ## How to Successfully Complete this Technical Assignment
 
 1. Clone the repository provided (do **not** fork it)
-2. Publish your code on your GitHub (or Gitlab, or whatever...)
-3. Send us the link and tell us approximatively how much time you spent on this assignment
+2. Publish your code in a private GitHub Repo (or Gitlab, or whatever...)
+3. Give us access to that repo and tell us approximatively how much time you spent on this assignment
 
 Note that the test should take no more than 3 hours to complete.
 
