@@ -28,7 +28,9 @@ Based on the input data, develop an algorithm that, provided with a PDF CV and a
 
 ## Technologies
 
-You can use any library or technology. We will supply you with an OpenAI API key, allowing you to utilize powerful, off-the-shelf LLMs as needed.
+You can use any library or technology in your solution. We will supply you with an OpenAI API key, allowing you to utilize powerful, off-the-shelf LLMs as needed.
+
+AI coding tools are welcome, but we expect you to maintain a critical eye on every aspect of your solution and to understand the trade-offs behind all choices made—whether by you or by the AI.
 
 ## Input data details
 
